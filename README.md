@@ -3,7 +3,7 @@
 
 This script allows you to view, search, and play movies from a remote server.
 
-This script is best used when the machine that you are using it on is setup to be able ssh into the remote server using SSH Keys.
+This script is best used when the machine that you are using it on is configured to connect to the remote server using SSH Keys.
 
 This script has only been tested on a machine running Linux.
 
