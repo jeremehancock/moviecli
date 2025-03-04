@@ -12,7 +12,7 @@ This script has only been tested on a machine running Linux.
 
 ## Support this project
 
-[![Donate](https://raw.githubusercontent.com/jeremehancock/Posteria/main/images/donate-button.png)](https://www.buymeacoffee.com/jereme)
+[![Donate](https://raw.githubusercontent.com/jeremehancock/Posteria/main/images/donate-button.png)](https://www.buymeacoffee.com/jeremehancock)
 
 ## License
 
