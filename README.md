@@ -18,6 +18,6 @@ This script has only been tested on a machine running Linux.
 
 [MIT License](LICENSE)
 
-## AI Assistance Disclosure
+## AI Disclosure
 
 This project was created with the help of AI.
